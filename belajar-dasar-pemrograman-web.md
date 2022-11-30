@@ -20,6 +20,7 @@
 
  ## B. Pengenalan HTML
  ### struktur html
+    ```bash
     <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -32,6 +33,7 @@
         
     </body>
     </html>
+    ```
 
 
  
