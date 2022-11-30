@@ -1,5 +1,4 @@
- # Belajar Dasar Pemrograman Web
- ---
+ # Belajar Dasar Pemrograman Web   
 
  ## Pendahuluan
  ### Apa itu website?
@@ -17,6 +16,9 @@
  CSS for presentation  
  Javascript for behavior  
 
+---
+
  ## Pengenalan HTML
+
 
  
