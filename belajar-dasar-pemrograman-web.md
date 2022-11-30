@@ -36,9 +36,48 @@
  ```
  Elemen `<head>` pada berkas HTML berfungsi sebagai tempat disimpannya informasi dari dokumen HTML.
 
- Sementara seluruh konten yang terdapat pada elemen `<body>` akan ditampilkan pada halaman website. 
+ Sementara seluruh yang terdapat pada elemen `<body>` akan ditampilkan pada halaman website. 
 
- ### 
+ ### tag-tag pada HTML
+ Kita akan berkenalan lebih dalam mengenai elemen yang ada pada HTML. Sehingga, kita dapat memilih elemen yang sesuai dalam menampilkan sebuah konten pada website.
+
+ * attribute
+  ```bash 
+  <p class="konten-utama">ini adalah konten</p>
+  ```
+
+  ada 2 jenis attribute, global attribute dan attribute yg hanya bisa digunakan pada elemen tertentu.
+
+  **Global attribute**
+  | Attribute       | Description                                                                                                |
+  | --------------- | ---------------------------------------------------------------------------------------------------------- |
+  | accesskey       | Menentukan tombol shortcut untuk mengaktifkan/memfokuskan pada sebuah element.                             |
+  | contenteditable | Menentukan konten dari elemen merupakan konten yang dapat diubah atau tidak.                               |
+  | data-*          | Digunakan untuk menyimpan sebuah data pribadi khusus ke halaman atau aplikasi.                             |
+  | dir             | Menentukan arah teks untuk konten pada suatu elemen.                                                       |
+  | draggable       | Menentukan apakah suatu elemen dapat di-drag atau tidak.                                                   |
+  | dropzone        | Menentukan apakah data yang di-drag adalah data yang disalin, dipindahkan, atau ditautkan saat dijatuhkan. |
+  | hidden          | Menentukan apakah suatu elemen ditampilkan atau tidak pada browser.                                        |
+  | spellcheck      | Menentukan apakah elemen harus diperiksa ejaannya dan tata bahasanya atau tidak.                           |
+  | id              | Menetapkan id pada elemen.                                                                                 |
+  | lang            | Menentukan bahasa pada konten elemen.                                                                      |
+  | tabindex        | Menentukan urutan dari suatu elemen.                                                                       |
+  | translate       | Menentukan apakah konten elemen harus diterjemahkan atau tidak.                                            |
+  | style           | Menentukan styling secara satu baris untuk suatu elemen.                                                   |
+  | title           | Menentukan informasi tambahan tentang suatu elemen.                                                        |
+ 
+ * paragraf
+ * heading
+ * list
+ * gambar
+ * teks terformat
+ * link/anchor, emphasized text, important text, dan short quotation
+ * citation
+ * semantic HTML
+ * generic element
+ * tabel
+ * special character
+ * form
 
 
 
