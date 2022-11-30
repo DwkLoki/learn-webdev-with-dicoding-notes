@@ -1,6 +1,6 @@
  # Belajar Dasar Pemrograman Web   
 
- ## Pendahuluan
+ ## A. Pendahuluan
  ### Apa itu website?
  Website adalah sebuah halaman yang menampilkan informasi berupa teks atau gambar. Berbeda dengan koran, majalah ataupun media informasi lainnya, website dapat diakses melalui internet menggunakan browser. Website ini unik karena tiap halaman dapat saling terhubung dengan menggunakan hypertext links. 
 
@@ -18,7 +18,20 @@
 
 ---
 
- ## Pengenalan HTML
+ ## B. Pengenalan HTML
+ ### struktur html
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        
+    </body>
+    </html>
 
 
  
