@@ -67,8 +67,63 @@
   | title           | Menentukan informasi tambahan tentang suatu elemen.                                                        |
  
  * paragraf
+   ```bash
+   <p>ini adalah paragraf</p>
+   ```
+   result:
+   <p>ini adalah paragraf</p>
  * heading
- * list
+   ```bash
+    <h1>ini heading 1</h1>
+    <h2>ini heading 2</h2>
+    <h3>ini heading 3</h3>
+    <h4>ini heading 4</h4>
+    <h5>ini heading 5</h5>
+    <h6>ini heading 6</h6>
+   ```
+   result:
+   <h1>ini heading 1</h1>
+   <h2>ini heading 2</h2>
+   <h3>ini heading 3</h3>
+   <h4>ini heading 4</h4>
+   <h5>ini heading 5</h5>
+   <h6>ini heading 6</h6>
+ * list  
+   **unordered list**
+      ```bash
+      <ul>
+        <li>daftar tanpa urutan</li>
+        <li>daftar tanpa urutan</li>
+        <li>daftar tanpa urutan</li>
+      </ul>
+      ```
+      result:
+      <ul>
+        <li>daftar tanpa urutan</li>
+        <li>daftar tanpa urutan</li>
+        <li>daftar tanpa urutan</li>
+      </ul>  
+
+   **ordered list** 
+      ```bash
+      <ol>
+        <li>daftar terurut</li>
+        <li>daftar terurut</li>
+        <li>daftar terurut</li>
+      </ol>
+      ```
+      **attribute**  
+      type="1"
+
+      result:
+      <ol>
+        <li>daftar terurut</li>
+        <li>daftar terurut</li>
+        <li>daftar terurut</li>
+      </ol> 
+
+   **description list**    
+
  * gambar
  * teks terformat
  * link/anchor, emphasized text, important text, dan short quotation
@@ -78,6 +133,8 @@
  * tabel
  * special character
  * form
+
+> Teks yang berada pada dokumen HTML tanpa tags disebut “anonymous text” dan ini dapat menyebabkan dokumen HTML menjadi tidak valid.
 
 
 
